@@ -28,3 +28,15 @@
 .navbar-toggler{
     background-color: #ffeae6;
 }
+
+.section-title{
+    font-family: var(--font-titulo);
+}
+
+.section-title span{
+    color: #e15f41;
+}
+
+#sobre-o-restaurante{
+    background-color: #ffeae6;
+}

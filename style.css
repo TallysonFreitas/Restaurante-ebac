@@ -40,3 +40,8 @@
 #sobre-o-restaurante{
     background-color: #ffeae6;
 }
+
+.text-colored{
+    color: #e15f41;
+    font-family: var(--font-titulo);
+}

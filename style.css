@@ -67,3 +67,9 @@
 #fale-conosco button:hover{
     border: 1px solid white;
 }
+
+@media (max-width:767px){
+    .carousel-item img{
+        width: 100%;
+    }
+}
